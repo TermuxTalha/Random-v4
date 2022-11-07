@@ -23,7 +23,7 @@
 <> rm -rf Random-v4
 <> git clone https://github.com/TermuxTalha/Random-v4.git
 <> cd Random-v4
-<> python3 talha-v4.py
+<> python3 talhaV-5.py
 
   ۝ •TB• ۝JOIN MY TELEGRAM GROUP : https://t.me/talhatechnology
 
